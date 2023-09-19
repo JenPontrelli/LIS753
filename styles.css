@@ -9,13 +9,13 @@ header p {
   text-align: center;
 }
 
-header figure {
+figure {
   border: 3px solid black;
   padding: 30px;
   text-align: center;
 }
 
-p img {
+img {
   float: right;
   max-width: 60%;
   padding: 12px;
