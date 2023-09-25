@@ -24,3 +24,9 @@ p img {
 p {
   font-family: helvetica;
 }
+
+a{
+  font-weight: bold;
+  color: blueviolet;
+}
+
