@@ -35,3 +35,14 @@ h1#article-title {
   font-size: 60px;
   font-weight: bold;
 }
+
+figure.main-image {
+  background: paleturquoise;
+  border-color: black;
+  color: white;
+}
+
+figure.section-image {
+  float: right;
+  margin-left: 20px;
+}
