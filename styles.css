@@ -42,7 +42,12 @@ figure.main-image {
   color: white;
 }
 
-figure.section-image {
+figure.section-image odd {
   float: right;
+  margin-left: 20px;
+}
+
+figure.section-image odd {
+  float: left;
   margin-left: 20px;
 }
