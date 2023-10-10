@@ -1,9 +1,3 @@
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 60px;
-  text-align: center;
-}
 
 header p {
   text-align: center;
@@ -32,6 +26,7 @@ a{
 
 h1#site-title {
   font-size: 72px;
+  color: blueviolet;
   text-align: center;
   font-weight: bold;
 }
