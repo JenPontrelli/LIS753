@@ -37,8 +37,8 @@ h1#article-title {
 }
 
 figure.main-image {
-  background: paleturquoise;
-  border-color: black;
+  background: rgb(46, 91, 91);
+  border-color: rgb(125, 197, 9);
   color: white;
 }
 
