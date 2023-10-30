@@ -3,18 +3,16 @@ h1#site-title {
   font-size: 72px;
   text-align: center;
 }
-  
 
 li {
   display: inline;
 }
 
 ul {
+  justify-content: center;
+  gap: 30px;
   list-style-type: none;
   margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #51abb0;
 }
 
 body { 
@@ -24,7 +22,7 @@ body {
 
 h1#article-title {
   font-family: Helvetica, sans-serif;
-  font-size: 46px;
+  font-size: 36px;
   float: right;
 }
 
