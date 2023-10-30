@@ -9,7 +9,6 @@ li {
 }
 
 ul {
-  justify-content: center;
   gap: 30px;
   list-style-type: none;
   margin: 0;
@@ -27,7 +26,8 @@ h1#article-title {
 }
 
 img {
-  width: 100%;
+  float: left;
+  
 }
   
   
