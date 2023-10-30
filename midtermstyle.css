@@ -29,7 +29,8 @@ h1#article-title {
 }
 
 img {
-  float: left;
+  width: 100%;
+}
   
   
 
