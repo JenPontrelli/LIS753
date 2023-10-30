@@ -1,3 +1,9 @@
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
 li {
   display: inline;
 }
@@ -9,6 +15,17 @@ ul {
   overflow: hidden;
   background-color: #51abb0;
 }
+
+body { 
+  font-family: Garamond, serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 46px;
+}
+
 
 
   
