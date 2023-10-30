@@ -26,8 +26,9 @@ h1#article-title {
 }
 
 img {
-  float: left;
-  
+  float: center;
+  max-width: 100%;
+  height: auto;  
 }
   
   
