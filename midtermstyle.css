@@ -15,6 +15,10 @@ h1#article-title {
   text-align: center;
 }
 
+.main-image {
+  text-align: center;
+}
+
 .main-image img {
   max-width: 100%;
   height: auto;  
