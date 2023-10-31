@@ -57,6 +57,13 @@ h2 {
   float: left;
   width: 33.33%;
   padding: 10px;
+  box-sizing: border-box;
+}
+
+article::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 footer#page-footer {
