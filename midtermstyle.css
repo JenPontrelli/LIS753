@@ -34,7 +34,20 @@ img {
   display: inline;
   margin: 0 10px;
 }
-  
+
+nav {
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  margin: 40px;
+  font-family: Helvetica, sans-serif;
+}
+
+H2 {
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
 
   
   
