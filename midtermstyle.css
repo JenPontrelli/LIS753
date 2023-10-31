@@ -39,9 +39,13 @@ nav {
   font-family: Helvetica, sans-serif;
 }
 
-p {
+p#article-info {
   margin-right: 300px;
   margin-left: 300px;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
   font-family: Helvetica, sans-serif;
 }
 
