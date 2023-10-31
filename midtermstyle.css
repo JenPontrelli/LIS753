@@ -16,7 +16,7 @@ h1#article-title {
 }
 
 img {
-  float: center;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;  
 }
@@ -30,7 +30,7 @@ img {
   padding: 0;
 }
 
-.nav container li {
+.nav-container li {
   display: inline;
   margin: 0 10px;
 }
@@ -40,8 +40,7 @@ nav {
 }
 
 .article-info {
-  margin-right: 300px;
-  margin-left: 300px;
+  margin: 0 300px;
   font-family: Helvetica, sans-serif;
 }
 
@@ -49,7 +48,7 @@ p {
   font-family: Helvetica, sans-serif;
 }
 
-H2 {
+h2 {
   font-family: Helvetica, sans-serif;
   text-align: left;
 }
