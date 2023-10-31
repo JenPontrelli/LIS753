@@ -4,16 +4,6 @@ h1#site-title {
   text-align: center;
 }
 
-li {
-  display: inline;
-}
-
-ul {
-  gap: 30px;
-  list-style-type: none;
-  margin: 0;
-}
-
 body { 
   font-family: Garamond, serif;
   font-size: 16px;
@@ -30,7 +20,20 @@ img {
   max-width: 100%;
   height: auto;  
 }
-  
+
+.nav-container {
+  text-align:center;
+}
+
+.nav-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.nav container li {
+  display: inline;
+  margin: 0 10px;
+}
   
 
   
