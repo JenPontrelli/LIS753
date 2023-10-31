@@ -23,10 +23,12 @@ img {
 
 nav {
   font-family: Helvetica, sans-serif;
+  text-align:center;
 }
 
 nav ul li{
   display: inline;
+  margin: 0 20px;
 }
 
 .article-info {
