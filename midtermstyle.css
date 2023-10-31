@@ -32,7 +32,9 @@ nav ul li{
 }
 
 .article-info {
-  margin: 0 300px;
+  margin-left: 300px;
+  margin-right:300px;
+  margin-bottom: 50px;
   font-family: Helvetica, sans-serif;
 }
 
