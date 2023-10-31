@@ -50,5 +50,9 @@ H2 {
   text-align: left;
 }
 
-  
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
   
