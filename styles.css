@@ -39,6 +39,9 @@ nav ul {
   paddint-left:0;
 }
 
+nav ul li {
+}
+
 h1#article-title {
   font-size: 60px;
   font-weight: bold;
