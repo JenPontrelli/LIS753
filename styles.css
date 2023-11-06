@@ -31,6 +31,14 @@ h1#site-title {
   font-weight: bold;
 }
 
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  paddint-left:0;
+}
+
 h1#article-title {
   font-size: 60px;
   font-weight: bold;
