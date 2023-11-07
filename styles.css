@@ -32,11 +32,16 @@ h1#site-title {
 }
 
 nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 30px;
   list-style: none;
-  paddint-left:0;
+  padding-left:0;
+}
+
+@media all and (min-width: 376px) {
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
 }
 
 nav ul li {
@@ -77,3 +82,5 @@ img {
   max-width:100%;
   height: auto;
 }
+
+
