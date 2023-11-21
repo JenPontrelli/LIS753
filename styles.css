@@ -83,4 +83,9 @@ img {
   height: auto;
 }
 
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: LightGray;
+}
 
